@@ -1,0 +1,17 @@
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.csprojAssemblyReference.cache
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\MainWindow.g.cs
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\App.g.cs
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin_MarkupCompile.cache
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin_MarkupCompile.lref
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\Pages\Settings.g.cs
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\bin\Debug\ApplicationSettings_Ilin.exe.config
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\bin\Debug\ApplicationSettings_Ilin.exe
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\bin\Debug\ApplicationSettings_Ilin.pdb
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\MainWindow.baml
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\Pages\Settings.baml
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.g.resources
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.Properties.Resources.resources
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.csproj.GenerateResource.cache
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.csproj.CoreCompileInputs.cache
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.exe
+H:\Мои документы\рпм\пр11\ApplicationSettings_Ilin\ApplicationSettings_Ilin\obj\Debug\ApplicationSettings_Ilin.pdb
